@@ -1,4 +1,4 @@
-# 🛡️ DataGuard AI — Healthcare Data Quality Agent
+# DataGuard AI — Healthcare Data Quality Agent
 
 An intelligent data quality agent that automatically profiles healthcare datasets, detects anomalies, and generates actionable recommendations using AI.
 
