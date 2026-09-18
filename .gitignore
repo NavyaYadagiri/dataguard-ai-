@@ -1,0 +1,19 @@
+# Reports (generated output)
+data_quality_report.txt
+data_quality_issues.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

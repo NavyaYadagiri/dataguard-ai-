@@ -1,0 +1,31 @@
+claim_id,member_id,member_name,date_of_birth,gender,provider_id,provider_name,provider_specialty,claim_date,diagnosis_code,diagnosis_desc,procedure_code,claim_amount,paid_amount,claim_status,plan_type,state
+CLM001,MEM1001,John Smith,1985-03-15,M,PRV101,Dr. Sarah Johnson,Cardiology,2026-01-15,I10,Essential Hypertension,99213,250.00,200.00,Approved,PPO,NJ
+CLM002,MEM1002,Maria Garcia,1972-08-22,F,PRV102,Dr. Michael Chen,Internal Medicine,2026-01-16,E11.9,Type 2 Diabetes,99214,325.00,260.00,Approved,HMO,NJ
+CLM003,MEM1003,Robert Williams,1990-11-03,M,PRV103,Dr. Emily Brown,Orthopedics,2026-01-17,M54.5,Low Back Pain,99215,450.00,360.00,Approved,PPO,NY
+CLM004,MEM1004,Jennifer Davis,,F,PRV104,Dr. James Wilson,Dermatology,2026-01-18,L70.0,Acne Vulgaris,99213,250.00,200.00,Approved,EPO,NJ
+CLM005,MEM1005,David Brown,1988-06-30,M,PRV101,Dr. Sarah Johnson,Cardiology,2026-01-19,I25.10,Coronary Artery Disease,99214,325.00,975.00,Approved,PPO,NJ
+CLM006,MEM1006,Lisa Anderson,1965-12-10,F,PRV105,Dr. Anna Martinez,Oncology,2026-01-20,C50.911,Breast Cancer,99215,15000.00,12000.00,Approved,PPO,NY
+CLM007,MEM1007,James Taylor,1978-04-25,X,PRV102,Dr. Michael Chen,Internal Medicine,2026-01-21,J06.9,Upper Respiratory Infection,99213,250.00,200.00,Approved,HMO,NJ
+CLM008,MEM1008,Patricia Thomas,1955-09-14,F,PRV106,Dr. Robert Lee,Neurology,2026-01-22,G43.909,Migraine,99214,325.00,260.00,Pending,PPO,CT
+CLM009,MEM1009,Michael Johnson,1982-01-28,,PRV107,Dr. Lisa Wang,Psychiatry,2026-01-23,F32.1,Major Depression,90834,200.00,180.00,Approved,HMO,NJ
+CLM010,MEM1010,Sarah Wilson,1995-07-19,F,PRV108,Dr. David Kim,OB/GYN,2026-01-24,Z34.00,Pregnancy Supervision,99214,325.00,260.00,Approved,EPO,NJ
+CLM011,MEM1001,John Smith,1985-03-15,M,PRV101,Dr. Sarah Johnson,Cardiology,2026-01-15,I10,Essential Hypertension,99213,250.00,200.00,Approved,PPO,NJ
+CLM012,MEM1011,Christopher Lee,1970-02-14,M,PRV109,Dr. Karen Patel,Endocrinology,2026-01-26,E11.65,Type 2 Diabetes with Hyperglycemia,99215,450.00,,Approved,PPO,NY
+CLM013,MEM1012,Amanda Martinez,1993-05-08,F,PRV110,Dr. Thomas Clark,Pulmonology,2026-01-27,J45.20,Mild Asthma,99213,250.00,200.00,Denied,HMO,NJ
+CLM014,MEM1013,Daniel Harris,1960-10-31,M,PRV103,Dr. Emily Brown,Orthopedics,2026-01-28,M17.11,Primary Osteoarthritis,99214,325.00,260.00,Approved,PPO,CT
+CLM015,MEM1014,Nicole Clark,1987-03-22,F,PRV105,Dr. Anna Martinez,Oncology,2026-01-29,C34.90,Lung Cancer,99215,22000.00,17600.00,Approved,PPO,NJ
+CLM016,MEM1015,Kevin Robinson,1975-08-16,M,PRV111,Dr. Jennifer Adams,Gastroenterology,2026-01-30,K21.0,GERD,99213,250.00,200.00,Approved,HMO,NY
+CLM017,MEM1016,Stephanie White,1968-11-29,F,PRV102,Dr. Michael Chen,Internal Medicine,2026-02-01,I10,Essential Hypertension,99214,325.00,260.00,Approved,EPO,NJ
+CLM018,MEM1017,Brian Hall,1992-04-07,M,PRV112,Dr. Steven Young,Urology,2026-02-02,N40.0,BPH,99214,-325.00,260.00,Approved,PPO,NJ
+CLM019,MEM1018,Rachel Allen,1983-07-13,F,PRV108,Dr. David Kim,OB/GYN,2026-02-03,N92.0,Menorrhagia,99213,250.00,200.00,Approved,HMO,CT
+CLM020,MEM1019,Timothy King,1958-01-05,M,PRV106,Dr. Robert Lee,Neurology,2026-02-04,G20,Parkinson Disease,99215,450.00,360.00,Approved,PPO,NJ
+CLM021,MEM1020,Laura Wright,2028-09-10,F,PRV102,Dr. Michael Chen,Internal Medicine,2026-02-05,J06.9,Upper Respiratory Infection,99213,250.00,200.00,Approved,HMO,NJ
+CLM022,MEM1021,Jason Lopez,1979-06-18,M,PRV113,Dr. Maria Rodriguez,Rheumatology,2026-02-06,M06.9,Rheumatoid Arthritis,99214,325.00,260.00,Approved,PPO,NY
+CLM023,MEM1022,Michelle Scott,1991-12-01,F,PRV101,Dr. Sarah Johnson,Cardiology,2026-02-07,I48.0,Paroxysmal AFib,99215,450.00,360.00,Pending,PPO,NJ
+CLM024,MEM1023,Ryan Green,1986-02-28,M,PRV107,Dr. Lisa Wang,Psychiatry,2026-02-08,F41.1,Generalized Anxiety,90837,275.00,247.50,Approved,HMO,NJ
+CLM025,MEM1024,Emily Adams,1974-05-20,F,PRV114,Dr. William Turner,Nephrology,2026-02-09,N18.3,CKD Stage 3,99214,325.00,260.00,Approved,EPO,CT
+CLM026,MEM1025,mark campbell,1967-09-03,m,PRV103,Dr. Emily Brown,Orthopedics,2026-02-10,M16.11,Primary Osteoarthritis Hip,99214,325.00,260.00,Approved,PPO,NJ
+CLM027,MEM1026,Angela Baker,1996-01-17,F,PRV110,Dr. Thomas Clark,Pulmonology,2026-02-11,J44.1,COPD with Exacerbation,99215,450.00,360.00,Approved,PPO,NY
+CLM028,MEM1027,Scott Nelson,1981-08-09,M,PRV111,Dr. Jennifer Adams,Gastroenterology,2026-02-12,K50.90,Crohn Disease,99214,325.00,260.00,Approved,HMO,NJ
+CLM029,MEM1028,Kimberly Mitchell,1963-03-26,F,PRV109,Dr. Karen Patel,Endocrinology,2026-02-13,E05.00,Hyperthyroidism,99214,325.00,260.00,Denied,PPO,NJ
+CLM030,MEM1029,Jeffrey Perez,1989-10-12,M,PRV112,Dr. Steven Young,Urology,2026-02-14,N20.0,Kidney Stone,99215,8500.00,6800.00,Approved,EPO,NY
